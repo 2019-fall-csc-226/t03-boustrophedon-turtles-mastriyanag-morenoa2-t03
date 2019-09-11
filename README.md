@@ -1,11 +1,9 @@
 # T03: Boustrophedon Turtles
 
-Name 1: ____________
+Name 1: Abraham Moreno
 
-Name 2: ____________
+Name 2: Vidya Mastriyana
 
-Name 3 (if needed): ____________
+Repository Link: https://smallyourl.appspot.com/skwbYfFjU
 
-Repository Link: ______________
-
-Google Document Link: ______________
+Google Document Link: https://smallyourl.appspot.com/Ku5oun9qN

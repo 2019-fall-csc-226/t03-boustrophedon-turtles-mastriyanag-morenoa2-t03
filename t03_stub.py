@@ -1,13 +1,13 @@
 #################################################################################
-# Author:
-# Username:
+# Author: Abraham Moreno | Vidya Mastriyana
+# Username: morenoa2 | mastriyanag
 #
-# Assignment:
-# Purpose:
+# Assignment: T03
+# Purpose: To make a square be filled without overlap.
 #################################################################################
 # Acknowledgements:
-#
-#
+# Used my url shortener for the links. smallyourl.appspot.com
+# Used the random library
 #################################################################################
 
 import turtle
